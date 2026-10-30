@@ -1,4 +1,4 @@
-# Simple Paint Application 🎨
+# Simple Paint Application  
 
 A simple paint application built using Python's `tkinter` library.  
 It allows you to draw freely on a canvas, choose colors, and clear the canvas with one click.
