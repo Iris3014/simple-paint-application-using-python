@@ -33,5 +33,3 @@ It allows you to draw freely on a canvas, choose colors, and clear the canvas wi
 - **Draw**: Click and hold the left mouse button, then drag.
 - **Change Color**: Click a color button or use "More Colors".
 - **Clear Canvas**: Click the "Clear" button.
-## License
-This project is licensed under the MIT License.
